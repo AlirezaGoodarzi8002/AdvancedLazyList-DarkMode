@@ -5,7 +5,14 @@
 /.idea/libraries
 /.idea/modules.xml
 /.idea/workspace.xml
+/.idea/inspectionProfiles/Project_Default.xml
 /.idea/navEditor.xml
+/.idea/deploymentTargetSelector.xml
+/.idea/gradle.xml
+/.idea/kotlinc.xml
+/.idea/migrations.xml
+/.idea/misc.xml
+/.idea/runConfigurations.xml
 /.idea/assetWizardSettings.xml
 .DS_Store
 /build
