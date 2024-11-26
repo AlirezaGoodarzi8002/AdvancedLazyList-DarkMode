@@ -57,8 +57,7 @@ By hoisting state, the app achieves a more modular and maintainable codebase, ad
 
 ## Demo GIF  
 
-![Screen_recording_20241126_195148-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e98a6399-a16a-4712-988a-79053e8c0205)
-
+![Screen_recording_20241126_195148-ezgif com-resize](https://github.com/user-attachments/assets/6bff6fbc-f171-45ea-a118-c129936e1297)
 
 ---
 
