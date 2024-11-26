@@ -13,8 +13,9 @@ This project demonstrates an **advanced lazy list** in Jetpack Compose, designed
   Full compatibility with light and dark themes using Material3's color schemes for an aesthetically pleasing UI.  
 
 - **Scroll-to-Top Button**  
-  A floating button that appears when the user scrolls down, implemented with smooth animations for visibility transitions.  ### State Hoisting  
+  A floating button that appears when the user scrolls down, implemented with smooth animations for visibility transitions.
 
+    ### State Hoisting  
 This project implements **state hoisting** to improve reusability, testability, and separation of concerns.  
 - **Why State Hoisting?**  
   - Keeps composables **stateless**, making them easier to test and reuse across different parts of the app.  
